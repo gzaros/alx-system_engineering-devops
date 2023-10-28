@@ -1,0 +1,1 @@
+This project features a collection of diagrams illustrating diverse web infrastructures. Its aim is to provide a broad overview of the organizational structure and key components of web infrastructures.
